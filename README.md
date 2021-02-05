@@ -2,6 +2,10 @@
 
 Goal: Learn about React Native by building a marginally useful Android/iOS app
 
+## Expo.io
+
+Using expo.io and Expo Go on the client side was a nice experience. Highly recommended as an easy way to learn about React Native app development
+
 ## How I initialized the project
 ````
 expo init project
@@ -13,4 +17,4 @@ expo install react-native-screens
 expo install react-native-snap-carousel
 
 ````
-
+## 
