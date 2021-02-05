@@ -13,5 +13,4 @@ expo install react-native-screens
 expo install react-native-snap-carousel
 
 ````
-## Grab the source code and paste it into App.js
 
